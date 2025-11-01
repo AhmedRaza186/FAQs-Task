@@ -101,7 +101,7 @@ document.querySelectorAll('.questions').forEach(function (elem) {
     elem.style.justifyContent = 'space-between'
     elem.style.alignItems = 'center'
     elem.style.padding = '0 15px'
-    elem.style.letterSpacing = '2px'
+    elem.style.letterSpacing = '1px'
     elem.style.cursor = 'pointer'
     elem.style.position = 'relative'
 elem.style.zIndex = '2'
